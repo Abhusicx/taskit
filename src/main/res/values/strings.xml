@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Taskit</string>
+    <string name="update_task">Update Wish</string>
+    <string name="add_task">Add Wish</string>
+    <string name="add">ADD</string>
+    <string name="update">UPDATE</string>
+</resources>
